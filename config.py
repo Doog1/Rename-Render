@@ -11,15 +11,7 @@ API_ID = os.environ.get("API_ID", "26039668")
 
 API_HASH = os.environ.get("API_HASH", "7379fbfb3d101a5075e37d64cbcebc0a")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7131153106:AAGQ_SywBdU2JEpy68mJp-sf3Ek1eD4niEA") 
-
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
-
-             # Don't Remove Credit @VJ_Botz
-             # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-             # Ask Doubt on telegram @KingVJ01
-
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7131153106:AAGQ_SywBdU2JEpy68mJp-sf3Ek1eD4niEA")    
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Arvind:fr7r8fkfjfu@cluster0.w3lstd2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
